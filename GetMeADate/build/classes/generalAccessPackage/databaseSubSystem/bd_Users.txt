@@ -1,0 +1,85 @@
+GMDP42PF03;Maria Antonieta;18-25;Heterossexual - M;(11) 9 224-455;Homem;Dança:Shows:Estudar:Desenhos;Ensino Fundamental Incompleto;Bujari:AC:Brasil:Mesma Cidade
+GMDP65WE05;João Paulo Nogueira;18-25;Heterossexual - H;(46) 5451-4325;Homem;Games:Dança:Teatro:Shows:Bar:Namoro;Ensino Fundamental Incompleto;Rio Branco:AC:Brasil:Qualquer Lugar
+GMDP67CG06;Antonio Rego;18-25;Heterossexual - H;(45) 6 7525-7614;Homem;Musica:Séries:Filmes:Dança:Teatro:Piadas:Bar:Estudar:Bate Papo:Namoro;Ensino Fundamental Incompleto;Manaus:AM:Brasil:Mesma Cidade
+GMDP30GY07;Carlos Alfonso;18-25;Heterossexual - H;(65) 7 4657-3442;Mulher;Esportes:Shows:Natureza:Bar:Desenhos:Trabalhar:Namoro;Ensino Fundamental Incompleto;Rio Branco:AC:Brasil:Qualquer Lugar
+GMDP72SA08;Antonieta Francisca;18-25;Lesbica;(13) 5464-7464;Ambos;Musica:Séries:Filmes:Esportes:Games:Dança:Teatro:Shows:Estudar:Desenhos:Amizade:Bate Papo;Ensino Médio Completo;Lagoa Santa:MG:Brasil:Qualquer Lugar
+GMDP15FF09;Tiffany Raimunda;26-33;Trans - H;(13) 2 5654-4654;Ambos;Esportes:Games:Dança:Shows:Estudar:Amizade;Ensino Superior Completo;Lauro de Freitas:BA:Brasil:Mesmo Estado
+GMDP37UM07;Rodrigo Hilbert Alberton;34-41;Heterossexual - H;(31) 8982-4312;Mulher;Musica:Séries:Natureza:Trabalhar:Namoro;Ensino Superior Completo;Rio de Janeiro:RJ:Brasil:Mesmo País
+GMDP94DT08;Paulo Gustavo Amaral Monteiro de Barros;42-49;Gay;(31) 98746-7643;Homem;Filmes:Festas:Leitura:Dança:Teatro;Ensino Fundamental Incompleto;Senador Guiomard:AC:Brasil:Mesma Cidade
+GMDP84EZ09;Maria da Graça Xuxa Meneghel;50-57;Heterossexual - M;(21) 5643-8474;Homem;Séries:Shows:Bar:Estudar:Bate Papo;Ensino Médio Incompleto;Madre de Deus:BA:Brasil:Mesma Cidade
+GMDP29PR010;Thales Bretas;42-49;Gay;(64) 6732-9743;Homem;Filmes:Festas:Leitura:Dança;Ensino Superior Completo;Senador Guiomard:AC:Brasil:Mesmo País
+GMDP43SZ11;Ayrton Senna da Silva ONM ComRB OME ;26-33;Heterossexual - H;(21) 4332-3982;Mulher;Dança:Teatro:Automobilismo:Bar:Estudar:Bate Papo;Ensino Fundamental Completo;Fundão:ES:Brasil:Mesma Cidade
+GMDP25US12;William Bradley Pitt;74-81;Heterossexual - H;(43) 3234-4324;Homem;Filmes:Leitura:Games:Teatro:Shows;Ensino Médio Completo;Cachoeirinha:RS:Brasil:Mesma Cidade
+GMDP6NC13;Bradley Charles Cooper;42-49;Trans - H;(43) 8632-4323;Ambos;Musica:Esportes:Teatro:Bar:Estudar:Namoro;Ensino Superior Completo;João Pessoa:PB:Brasil:Qualquer Lugar
+GMDP16UM14;Stefani Joanne Angelina Germanotta;74-81;Lesbica;(21)  9743-4323;Mulher;Festas:Games:Natureza:Desenhos:Trabalhar;Ensino Médio Completo;Gama:DF:Brasil:Mesmo Estado
+GMDP37ZX15;Mark Alan Ruffalo;42-49;Bissexual - H;(76) 3234-9753;Ambos;Dança:Shows:Natureza:Bar:Trabalhar;Ensino Fundamental Incompleto;Gama:DF:Brasil:Mesmo Estado
+GMDP39XU16;Claudia Cristina Leite Inácio Pedreira;98-105;Trans - M;(32) 4324-9585;Homem;Filmes:Games:Dança:Bar:Desenhos:Bate Papo;Ensino Médio Incompleto;Ananindeua:PA:Brasil:Mesmo País
+GMDP49SQ17;Luan Rafael Domingos Santana;98-105;Trans - M;(21) 3972-9583;Ambos;Filmes:Dança:Bar:Desenhos:Bate Papo;Ensino Fundamental Incompleto;Simões Filho:BA:Brasil:Qualquer Lugar
+GMDP22WK18;Whindersson Nunes Batista;34-41;Heterossexual - H;(98) 4392-9432;Ambos;Séries:Dança:Bar:Namoro;Ensino Médio Completo;Rio Preto da Eva:AM:Brasil:Mesmo País
+GMDP76RJ19;Luísa Gerloff Sonza;34-41;Bissexual - M;(64) 8324-9843;Ambos;Séries:Dança:Bar:Namoro;Ensino Fundamental Incompleto;Caucaia:CE:Brasil:Mesmo País
+GMDP30DN20;Victor Carvalho Ferreira;34-41;Bissexual - H;(32) 8732-9843;Ambos;Séries:Dança:Bar:Namoro;Ensino Fundamental Incompleto;Aparecida de Goiânia:GO:Brasil:Mesmo País
+GMDP77GJ21;Zezin da Feira;18-25;Heterossexual - H;(21) 3923-9854;Mulher;Esportes:Dança:Teatro:Shows:Natureza;Ensino Superior Completo;Capixaba:AC:Brasil:Mesmo Estado
+GMDP41RY22;Luana da Caçamba;26-33;Heterossexual - M;(21) 9832-9843;Homem;Esportes:Games:Dança:Teatro:Shows;Ensino Superior Completo;Xapuri:AC:Brasil:Mesmo Estado
+GMDP61EC23;Carl da Mata;18-25;Gay;(33) 9832-5945;Homem;Musica:Séries:Games:Dança:Teatro:Shows;Ensino Médio Completo;Senador Guiomard:AC:Brasil:Mesmo Estado
+GMDP78XC24;Alexandre Pires;66-73;Gay;(43) 9893-9483;Homem;Musica:Séries:Filmes:Escrita:Games;Ensino Médio Incompleto;Capixaba:AC:Brasil:Mesmo Estado
+GMDP11GJ25;Antonio José;74-81;Bissexual - H;(32) 9483-0432;Ambos;Games:Automobilismo:Amizade:Bate Papo:Namoro;Ensino Superior Incompleto;Atalaia:AL:Brasil:Mesmo País
+GMDP5DP26;Atonieta Osvaldo;74-81;Bissexual - M;(53) 9342-9483;Ambos;Musica:Esportes:Piadas:Amizade;Ensino Superior Incompleto;Maceió:AL:Brasil:Mesmo País
+GMDP32HG27;Lorena Traess;18-25;Bissexual - M;(32) 8473-4324;Ambos;Musica:Esportes:Piadas:Amizade;Ensino Superior Incompleto;Messias:AL:Brasil:Mesmo País
+GMDP42UN28;Zeca Pagodinho;58-65;Gay;(87) 9832-9843;Homem;Filmes:Teatro:Estudar:Bate Papo;Ensino Médio Incompleto;Macapá:AP:Brasil:Mesmo País
+GMDP49JQ29;Loreno Carlos;58-65;Gay;(32) 9382-9483;Homem;Filmes:Teatro:Estudar:Bate Papo;Ensino Médio Incompleto;Mazagão:AP:Brasil:Mesmo País
+GMDP69MC30;Pala Amorim;98-105;Heterossexual - M;(87) 9832-9832;Homem;Leitura:Natureza:Automobilismo:Trabalhar;Ensino Superior Completo;Santana:AP:Brasil:Mesmo País
+GMDP44DD31;Leticia Santos ;98-105;Lesbica;(12) 9372-9832;Mulher;Esportes:Piadas:Bar:Estudar:Desenhos:Amizade;Ensino Superior Incompleto;Careiro da Várzea:AM:Brasil:Mesmo País
+GMDP46PO32;Tula Lna;98-105;Lesbica;(53) 8732-8322;Mulher;Esportes:Piadas:Bar:Estudar:Desenhos:Amizade;Ensino Superior Incompleto;Novo Airão:AM:Brasil:Mesmo País
+GMDP31XA33;Parto Rrico;66-73;Heterossexual - H;(42) 9743-9832;Mulher;Musica:Séries:Esportes:Dança:Bar;Ensino Médio Incompleto;Salvador:BA:Brasil:Mesmo País
+GMDP72YG34;Joana Banana;66-73;Heterossexual - M;(32) 8974-9832;Homem;Musica:Séries:Esportes:Dança:Piadas;Ensino Médio Incompleto;Candeias:BA:Brasil:Mesmo País
+GMDP86EK35;O carinha que mora logo ali;66-73;Heterossexual - H;(87) 9483-4938;Mulher;Musica:Séries:Esportes:Games:Dança:Piadas:Bate Papo;Ensino Médio Incompleto;Salvador:BA:Brasil:Mesmo País
+GMDP90QO36;Batatinha quando nasce;18-25;Heterossexual - H;(87) 8732-9832;Homem;Estudar:Desenhos:Trabalhar:Amizade:Bate Papo:Namoro;Ensino Fundamental Incompleto;Caucaia:CE:Brasil:Mesmo País
+GMDP8WK37;Espalha rama pelo chão;18-25;Heterossexual - H;(87) 3723-9832;Homem;Estudar:Desenhos:Trabalhar:Amizade:Bate Papo:Namoro;Ensino Fundamental Incompleto;Salvador:BA:Brasil:Mesmo País
+GMDP54LD38;Joaozinho quando dorme;18-25;Heterossexual - H;(87) 9372-9832;Homem;Automobilismo:Estudar:Desenhos:Trabalhar:Amizade:Bate Papo:Namoro;Ensino Fundamental Incompleto;Fortaleza:CE:Brasil:Mesmo País
+GMDP52EX39;Poe a mao no coração;18-25;Heterossexual - H;(87) 8372-9382;Homem;Estudar:Desenhos:Trabalhar:Amizade:Bate Papo:Namoro;Ensino Fundamental Incompleto;Fortaleza:CE:Brasil:Mesmo País
+GMDP96UB40;Lora do TCham;42-49;Heterossexual - M;(87) 3982-9832;Homem;Festas:Leitura:Natureza:Automobilismo:Trabalhar;Ensino Superior Incompleto;Vila Velha:ES:Brasil:Qualquer Lugar
+GMDP32BF41;Moreno no TCham;42-49;Heterossexual - H;(32) 93823-0323;Mulher;Festas:Leitura:Natureza:Automobilismo:Trabalhar;Ensino Superior Incompleto;Vitória:ES:Brasil:Qualquer Lugar
+GMDP19SI42;Manuelzin Manuezao;58-65;Trans - H;(32) 4938-8753;Mulher;Séries:Dança:Bar:Namoro;Ensino Médio Incompleto;Goiânia:GO:Brasil:Qualquer Lugar
+GMDP6NT43;Fernanda Lima;58-65;Trans - M;(32) 7723-9823;Homem;Séries:Dança:Bar:Namoro;Ensino Médio Incompleto;Goiânia:GO:Brasil:Qualquer Lugar
+GMDP11EF44;Andre Menezes;34-41;Lesbica;(98) 3234-2332;Mulher;Dança:Teatro:Shows:Natureza:Bate Papo;Ensino Fundamental Incompleto;Alcântara:MA:Brasil:Qualquer Lugar
+GMDP14ZT45;Marilha Mendonza;74-81;Heterossexual - M;(32) 4934-9384;Homem;Esportes:Dança:Teatro:Shows:Piadas:Estudar;Ensino Fundamental Incompleto;Icatu:MA:Brasil:Qualquer Lugar
+GMDP78BG46;Arnaldo Batista;74-81;Heterossexual - H;(76) 3213-4234;Mulher;Dança:Teatro:Shows:Natureza:Estudar:Amizade;Ensino Fundamental Incompleto;São Luís:MA:Brasil:Qualquer Lugar
+GMDP53TM47;Tesla;98-105;Gay;(11) 3233-4824;Homem;Musica:Games:Dança:Automobilismo:Estudar;Ensino Fundamental Incompleto;Cuiabá:MT:Brasil:Qualquer Lugar
+GMDP14VH48;Leonardo D'Vinci;98-105;Gay;(11) 3213-3123;Homem;Musica:Séries:Games:Dança:Automobilismo:Estudar;Ensino Fundamental Incompleto;Cuiabá:MT:Brasil:Qualquer Lugar
+GMDP89LC49;Mario Junior;74-81;Trans - H;(76) 3293-4324;Homem;Festas:Leitura:Shows:Estudar:Namoro;Ensino Fundamental Incompleto;Camapuã:MS:Brasil:Qualquer Lugar
+GMDP68JJ50;Francisco Paiva;74-81;Trans - M;(87) 3743-4324;Homem;Musica:Dança:Teatro:Estudar:Desenhos;Ensino Fundamental Incompleto;Nova Alvorada do Sul:MS:Brasil:Mesma Cidade
+GMDP19JM51;Marc Natulla;50-57;Bissexual - H;(32) 4394-4434;Ambos;Musica:Esportes:Dança:Teatro:Desenhos;Ensino Superior Incompleto;Belo Horizonte:MG:Brasil:Mesma Cidade
+GMDP82VF52;Nadre Mrques;58-65;Heterossexual - H;(87) 3924-4832;Ambos;Musica:Games:Dança:Piadas:Bar:Estudar;Ensino Fundamental Incompleto;Belo Horizonte:MG:Brasil:Mesma Cidade
+GMDP56VQ53;Taquiso Amaral;34-41;Gay;(32) 4433-9843;Homem;Séries:Filmes:Teatro:Bar:Amizade;Ensino Fundamental Incompleto;Belém:PA:Brasil:Qualquer Lugar
+GMDP60TL54;Julia Amaor;18-25;Heterossexual - M;(32) 3234-9843;Homem;Filmes:Dança:Piadas:Desenhos;Ensino Médio Completo;Campo Grande:MS:Brasil:Mesma Cidade
+GMDP49KT55;Yuale Jaques;50-57;Heterossexual - M;(32) 4938-4343;Homem;Esportes:Teatro:Shows:Bar:Desenhos;Ensino Fundamental Incompleto;Belo Horizonte:MG:Brasil:Mesma Cidade
+GMDP8QO56;Atila Loarte;18-25;Heterossexual - H;(21) 3927-9312;Mulher;Dança:Teatro:Estudar:Amizade;Ensino Fundamental Incompleto;Marituba:PA:Brasil:Mesmo País
+GMDP44DA57;Viviane Braga;34-41;Heterossexual - M;(21) 4938-3922;Homem;Teatro:Natureza:Automobilismo:Bar:Estudar;Ensino Fundamental Incompleto;Caaporã:PB:Brasil:Qualquer Lugar
+GMDP22RM58;Bruno Fosca;18-25;Bissexual - H;(24) 9473-4234;Mulher;Escrita:Teatro:Automobilismo:Desenhos:Trabalhar;Ensino Superior Incompleto;Curitiba:PR:Brasil:Qualquer Lugar
+GMDP60TI59;Caetano Veloso;42-49;Heterossexual - H;(88) 9483-4982;Mulher;Festas:Games:Teatro:Natureza:Piadas;Ensino Superior Incompleto;Cruz do Espírito Santo:PB:Brasil:Qualquer Lugar
+GMDP48VI60;Marquesa Lottpo;42-49;Heterossexual - M;(87) 4983-9432;Homem;Teatro:Shows:Piadas:Bar:Estudar:Desenhos;Ensino Fundamental Incompleto;Campo Largo:PR:Brasil:Mesmo País
+GMDP57ZB61;Tuliora Koiyte;66-73;Bissexual - M;(76) 3234-8472;Homem;Musica:Esportes:Piadas:Amizade;Ensino Médio Completo;Teresina:PI:Brasil:Qualquer Lugar
+GMDP68PJ62;Caroloina Do NOrte;66-73;Lesbica;(76) 1331-6531;Mulher;Filmes:Games:Dança:Teatro:Desenhos;Ensino Médio Completo;José de Freitas:PI:Brasil:Mesma Cidade
+GMDP77WW63;Mauricio de Souza;26-33;Heterossexual - H;(55) 3234-2734;Mulher;Escrita:Shows:Natureza:Bar:Estudar:Namoro;Ensino Médio Completo;Ilha de Itamaracá:PE:Brasil:Mesmo País
+GMDP97OR64;Francisco Motta;18-25;Heterossexual - H;(55) 5655-9704;Homem;Filmes:Dança:Teatro:Automobilismo:Desenhos;Ensino Fundamental Incompleto;Rio de Janeiro:RJ:Brasil:Qualquer Lugar
+GMDP98ZK65;Robert Junior;42-49;Trans - H;(54) 4213-5873;Mulher;Musica:Séries:Esportes:Teatro:Desenhos;Ensino Superior Completo;Natal:RN:Brasil:Qualquer Lugar
+GMDP90PB66;Gesily Gonçalves;58-65;Trans - M;(87) 3443-4244;Homem;Escrita:Shows:Piadas:Estudar:Amizade;Ensino Superior Completo;Nísia Floresta:RN:Brasil:Qualquer Lugar
+GMDP12NG67;Waly Dias;98-105;Lesbica;(87) 9274-0145;Homem;Teatro:Piadas:Bar:Estudar:Amizade;Ensino Médio Incompleto;Glorinha:RS:Brasil:Qualquer Lugar
+GMDP75YA68;Fernando Henrique Cardoso;18-25;Heterossexual - H;(66) 3724-6509;Homem;Séries:Teatro:Desenhos:Bate Papo:Namoro;Ensino Fundamental Incompleto;Canoas:RS:Brasil:Qualquer Lugar
+GMDP45IQ69;Dilma Rusself;18-25;Heterossexual - M;(87)4973-8965;Homem;Festas:Leitura:Shows:Piadas:Estudar:Namoro;Ensino Superior Incompleto;Gravataí:RS:Brasil:Qualquer Lugar
+GMDP77TO70;José Sarney;18-25;Heterossexual - H;(64) 9472-9543;Mulher;Esportes:Games:Dança:Shows:Desenhos:Amizade;Ensino Superior Incompleto;Candeias do Jamari:RO:Brasil:Qualquer Lugar
+GMDP8GK71;Collor;18-25;Heterossexual - H;(32) 5854-0932;Mulher;Teatro:Natureza:Bar:Desenhos:Trabalhar;Ensino Superior Incompleto;Candeias do Jamari:RO:Brasil:Qualquer Lugar
+GMDP97JR72;William Bonner;18-25;Heterossexual - H;(34) 9233-9823;Mulher;Séries:Filmes:Teatro:Desenhos:Bate Papo;Ensino Superior Completo;Candeias do Jamari:RO:Brasil:Qualquer Lugar
+GMDP45SA73;Fátima Bernardes;18-25;Heterossexual - M;(32) 4972-0923;Homem;Séries:Filmes:Teatro:Desenhos:Trabalhar;Ensino Superior Completo;Porto Velho:RO:Brasil:Qualquer Lugar
+GMDP85GA74;Joelma Callpiso;34-41;Heterossexual - M;(87)7322-9742;Homem;Teatro:Bar:Estudar:Bate Papo:Namoro;Ensino Superior Incompleto;Bonfim:RR:Brasil:Mesmo Estado
+GMDP38LU75;Chimbinha da Calypso;26-33;Heterossexual - H;(12)9473-4723;Mulher;Dança:Teatro:Bar:Estudar:Amizade:Bate Papo:Namoro;Ensino Superior Incompleto;Bonfim:RR:Brasil:Mesmo Estado
+GMDP48DZ76;Amado Batista;90-97;Heterossexual - H;(24) 9743-8974;Mulher;Filmes:Esportes:Dança:Teatro:Piadas:Amizade;Ensino Fundamental Incompleto;Governador Celso Ramos:SC:Brasil:Qualquer Lugar
+GMDP56RO77;Ivete Sangalo;34-41;Heterossexual - M;(55) 4343-0589;Homem;Games:Teatro:Shows:Natureza:Piadas:Desenhos;Ensino Superior Completo;Palhoça:SC:Brasil:Mesma Cidade
+GMDP68SK78;Gabriela Sampaio ;18-25;Lesbica;(32) 5937-9734;Mulher;Teatro:Natureza:Automobilismo:Estudar:Desenhos:Trabalhar;Ensino Superior Incompleto;Antônio Carlos:SC:Brasil:Mesma Cidade
+GMDP80PR79;Carlos Eduardo;18-25;Gay;(99) 8669-4875;Homem;Musica:Séries:Filmes:Teatro:Estudar:Bate Papo;Ensino Superior Incompleto;São Paulo:SP:Brasil:Mesmo Estado
+GMDP1VG80;Yuri Plastation;18-25;Heterossexual - H;(37) 8463-4324;Mulher;Filmes:Games:Teatro:Bar:Estudar:Desenhos:Namoro;Ensino Fundamental Incompleto;Cajamar:SP:Brasil:Mesmo Estado
+GMDP7XU81;Luciano Hulk;42-49;Heterossexual - H;(55) 3432-5974;Mulher;Dança:Natureza:Estudar:Desenhos:Trabalhar;Ensino Médio Completo;Nossa Senhora do Socorro:SE:Brasil:Qualquer Lugar
+GMDP42AC82;Maju Coutinho;34-41;Heterossexual - M;(75) 3974-9023;Mulher;Teatro:Shows:Natureza:Automobilismo:Bar:Estudar:Bate Papo;Ensino Superior Completo;Nossa Senhora do Socorro:SE:Brasil:Qualquer Lugar
+GMDP0SE83;Antonio D'La Vega;18-25;Heterossexual - H;(45) 8966-0987;Mulher;Festas:Teatro:Automobilismo:Bar:Desenhos;Ensino Superior Completo;Fátima:TO:Brasil:Qualquer Lugar
+GMDP75PH84;Agostinho Carrara;42-49;Heterossexual - H;(32) 4343-0805;Mulher;Musica:Festas:Games:Piadas:Desenhos:Bate Papo;Ensino Superior Completo;Barrolândia:TO:Brasil:Mesmo Estado
+GMDP77KR85;Marie Currie;98-105;Heterossexual - M;(00) 9823-9743;Homem;Musica:Séries:Bar:Estudar:Bate Papo;Ensino Médio Incompleto;Taguatinga:DF:Brasil:Mesmo Estado
